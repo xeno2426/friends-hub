@@ -1,0 +1,1 @@
+{\n  "name": "friends-hub-frontend",\n  "version": "1.0.0",\n  "description": "Frontend for Friends Hub",\n  "main": "index.js",\n  "scripts": {\n    "start": "webpack serve --mode development",\n    "build": "webpack --mode production"\n  },\n  "dependencies": {},\n  "devDependencies": {\n    "webpack": "^5.0.0",\n    "webpack-cli": "^4.0.0"\n  }\n}
